@@ -34,3 +34,29 @@ section.features{
 .feature-holder p{
     font-size: 14px;
 }
+
+section.online-courses{
+    margin-top: 23px;
+    padding-top: 35px;
+    padding-bottom: 25px;
+}
+/*
+.online-courses-text-widget{
+    text-align: center;
+}
+.online-courses-text-widget h2{
+   font-size: 1.3rem;
+}
+.online-courses-text-widget p{
+    font-size: 14px;
+} */
+.online-course-card .card-title{
+font-size: 1.2rem;
+line-height: 25px;
+}
+.online-course-card{
+    text-align: center;
+}
+.online-course-card .card-text{
+    text-align: center;
+}
