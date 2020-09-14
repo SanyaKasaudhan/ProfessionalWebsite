@@ -12,3 +12,10 @@ font-size: small;
     background: rgb(255, 145, 0);
     background: linear-gradient(90deg, rgba(255, 145, 0,1) 0%, rgba(33, 78, 161,1) 15%, rgba(190, 50, 132) 39%,rgb(70, 136, 90) 59%,rgb(180, 88, 26) 79%,rgb(43, 119, 163) 100%);
 }
+.main-banner{
+    padding-top: 150px;
+    padding-bottom: 100px;
+    background-image: url('../img/download.jpg');
+    background-size: cover;
+    color: white;
+}
